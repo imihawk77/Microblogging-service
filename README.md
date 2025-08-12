@@ -24,7 +24,7 @@
 
 1. Скачиваем содержимое репозитория в отдельную папку:
     ```
-    https://gitlab.skillbox.ru/igor_miasoedov/python_advanced_diploma
+    https://gitlab.skillbox.ru/igor_miasoedov/python_advanced_diploma](https://github.com/imihawk77/Microblogging-service.git
     ```
 2. Необходимо подготовить файлы переменных сред. В репозитории есть файл **.env** из которого 
    нужно сделать файл **.env** подставив туда данные (имя пользователя, пароль, имя докер-контейнера,
